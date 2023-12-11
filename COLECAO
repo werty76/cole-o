@@ -117,7 +117,14 @@
 <info></info>
 </channel>
 
-<channels>
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]Twilight[/COLOR][/B]</name>
+<thumbnail>https://bit.ly/3RaZIGc</thumbnail>
+<externallink>https://raw.githubusercontent.com/werty76/cole-o/main/Twilight</externallink>
+<fanart>https://www.themoviedb.org/t/p/original/20pEc3LeWSs5MCtVwTMPxpZqDE6.jpg</fanart>
+<info></info>
+</channel>
+
 <channel>
 <name>[B][COLOR lime]●[/COLOR] [COLOR white]Underworld[/COLOR][/B]</name>
 <thumbnail>https://bit.ly/3Rn3wph</thumbnail>
