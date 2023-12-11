@@ -9,7 +9,14 @@
 <info></info>
 </channel>
 
-<channels>
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]Avatar[/COLOR][/B]</name>
+<thumbnail>https://www.themoviedb.org/t/p/original/oBHqxI9NFi2m9vkQ2PNCGaZJpxL.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/werty76/cole-o/main/Avatar</externallink>
+<fanart>https://www.themoviedb.org/t/p/original/ueoGaBikJwYzyJviaEOVBAzjBpW.jpg</fanart>
+<info></info>
+</channel>
+
 <channel>
 <name>[B][COLOR lime]●[/COLOR] [COLOR white]Corrida Mortal[/COLOR][/B]</name>
 <thumbnail>https://bit.ly/3vpHdo7</thumbnail>
@@ -18,7 +25,6 @@
 <info></info>
 </channel>
 
-<channels>
 <channel>
 <name>[B][COLOR lime]●[/COLOR] [COLOR white]Deadpool[/COLOR][/B]</name>
 <thumbnail>https://bit.ly/3N4Ci43</thumbnail>
@@ -36,7 +42,6 @@
 <info></info>
 </channel>
 
-<channels>
 <channel>
 <name>[B][COLOR lime]●[/COLOR] [COLOR white]John Wick[/COLOR][/B]</name>
 <thumbnail>https://bit.ly/47ACa4o</thumbnail>
@@ -45,7 +50,6 @@
 <info></info>
 </channel>
 
-<channels>
 <channel>
 <name>[B][COLOR lime]●[/COLOR] [COLOR white]Mad Max[/COLOR][/B]</name>
 <thumbnail>https://bit.ly/49VMpSD</thumbnail>
@@ -54,7 +58,6 @@
 <info></info>
 </channel>
 
-<channels>
 <channel>
 <name>[B][COLOR lime]●[/COLOR] [COLOR white]O Senhor dos Anéis[/COLOR][/B]</name>
 <thumbnail>https://bit.ly/412z32N</thumbnail>
@@ -63,7 +66,6 @@
 <info></info>
 </channel>
 
-<channels>
 <channel>
 <name>[B][COLOR lime]●[/COLOR] [COLOR white]Rambo[/COLOR][/B]</name>
 <thumbnail>https://bit.ly/3R1F3o3</thumbnail>
@@ -72,7 +74,6 @@
 <info></info>
 </channel>
 
-<channels>
 <channel>
 <name>[B][COLOR lime]●[/COLOR] [COLOR white]Regresso ao Futuro[/COLOR][/B]</name>
 <thumbnail>https://bit.ly/3sUY9nK</thumbnail>
@@ -81,7 +82,6 @@
 <info></info>
 </channel>
 
-<channels>
 <channel>
 <name>[B][COLOR lime]●[/COLOR] [COLOR white]Taxi[/COLOR][/B]</name>
 <thumbnail>https://bit.ly/47XMfrR</thumbnail>
@@ -90,7 +90,6 @@
 <info></info>
 </channel>
 
-<channels>
 <channel>
 <name>[B][COLOR lime]●[/COLOR] [COLOR white]The Delta Force[/COLOR][/B]</name>
 <thumbnail>https://bit.ly/40ZuQwW</thumbnail>
@@ -99,7 +98,6 @@
 <info></info>
 </channel>
 
-<channels>
 <channel>
 <name>[B][COLOR lime]●[/COLOR] [COLOR white]The Equalizer[/COLOR][/B]</name>
 <thumbnail>https://bit.ly/3uFRVsn</thumbnail>
@@ -108,7 +106,6 @@
 <info></info>
 </channel>
 
-<channels>
 <channel>
 <name>[B][COLOR lime]●[/COLOR] [COLOR white]Top Gun[/COLOR][/B]</name>
 <thumbnail>https://bit.ly/3N5LYew</thumbnail>
@@ -133,7 +130,6 @@
 <info></info>
 </channel>
 
-<channels>
 <channel>
 <name>[B][COLOR lime]●[/COLOR] [COLOR white]Velocidade Furiosa[/COLOR][/B]</name>
 <thumbnail>https://bit.ly/47UA5A7</thumbnail>
