@@ -107,6 +107,14 @@
 </channel>
 
 <channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]Rocky[/COLOR][/B]</name>
+<thumbnail>https://www.themoviedb.org/t/p/original/5FhnTJkfRYG4Ng3LJ8qsUpcFy0O.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/werty76/cole-o/main/Rocky</externallink>
+<fanart>https://www.themoviedb.org/t/p/original/zrx2QSRXuxBvGpnm6QJc9mpBJOS.jpg</fanart>
+<info></info>
+</channel>
+
+<channel>
 <name>[B][COLOR lime]●[/COLOR] [COLOR white]Taxi[/COLOR][/B]</name>
 <thumbnail>https://bit.ly/47XMfrR</thumbnail>
 <externallink>https://raw.githubusercontent.com/werty76/cole-o/main/Taxi</externallink>
