@@ -145,6 +145,14 @@
 </channel>
 
 <channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]Speed[/COLOR][/B]</name>
+<thumbnail>https://www.themoviedb.org/t/p/original/a9NkYU5Qmh7K6HYiCgHZ8K4KLRE.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/werty76/cole-o/main/Speed</externallink>
+<fanart>https://www.themoviedb.org/t/p/original/bWjvYgY2kfhnfzvEDk96yiCz2oJ.jpg</fanart>
+<info></info>
+</channel>
+
+<channel>
 <name>[B][COLOR lime]●[/COLOR] [COLOR white]Taxi[/COLOR][/B]</name>
 <thumbnail>https://bit.ly/47XMfrR</thumbnail>
 <externallink>https://raw.githubusercontent.com/werty76/cole-o/main/Taxi</externallink>
