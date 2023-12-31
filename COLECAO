@@ -169,9 +169,17 @@
 </channel>
 
 <channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]Terminator[/COLOR][/B]</name>
+<thumbnail>https://www.themoviedb.org/t/p/original/kChLn6rLra3NWoUx2CxF9xTU3E9.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/werty76/cole-o/main/Taxi</externallink>
+<fanart>https://www.themoviedb.org/t/p/original/tP1SCFnlYTHSMqp1yuFDVTQeLUD.jpg</fanart>
+<info></info>
+</channel>
+
+<channel>
 <name>[B][COLOR lime]●[/COLOR] [COLOR white]The Delta Force[/COLOR][/B]</name>
 <thumbnail>https://bit.ly/40ZuQwW</thumbnail>
-<externallink>https://raw.githubusercontent.com/werty76/cole-o/main/The%20Delta%20Force</externallink>
+<externallink>https://raw.githubusercontent.com/werty76/cole-o/main/Terminator</externallink>
 <fanart>https://www.themoviedb.org/t/p/original/7JeFewm9SU2ISqg4qzRBoaimLva.jpg</fanart>
 <info></info>
 </channel>
