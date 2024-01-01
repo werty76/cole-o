@@ -145,6 +145,14 @@
 </channel>
 
 <channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]Robocop[/COLOR][/B]</name>
+<thumbnail>https://www.themoviedb.org/t/p/original/jpi9msGZA3zYSwO22PNlmOd8tYw.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/werty76/cole-o/main/Robocop</externallink>
+<fanart>https://www.themoviedb.org/t/p/original/vBNYIsGBLczJzQN8tVj9gSvC9Vu.jpg</fanart>
+<info></info>
+</channel>
+
+<channel>
 <name>[B][COLOR lime]●[/COLOR] [COLOR white]Rocky[/COLOR][/B]</name>
 <thumbnail>https://www.themoviedb.org/t/p/original/5FhnTJkfRYG4Ng3LJ8qsUpcFy0O.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/werty76/cole-o/main/Rocky</externallink>
