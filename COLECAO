@@ -256,4 +256,12 @@
 <info></info>
 </channel>
 
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]X-Men[/COLOR][/B]</name>
+<thumbnail>https://bit.ly/3Om9rJ3</thumbnail>
+<externallink>https://raw.githubusercontent.com/werty76/cole-o/main/X-Men.m3u</externallink>
+<fanart>https://image.tmdb.org/t/p/original/roZFGw3Rg6VOYty9y4r5WvgvXoC.jpg</fanart>
+<info></info>
+</channel>
+
 </channels>
