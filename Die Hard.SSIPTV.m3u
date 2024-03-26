@@ -1,12 +1,12 @@
 #EXTM3U size="medium"
 
-#EXTINF:-1 tvg-logo="https://bit.ly/42ahmij" description="1988", Assalto ao Arranha-Céu
+#EXTINF:-1 tvg-logo="https://bit.ly/42ahmij" type="VIDEO" description="1988", Assalto ao Arranha-Céu
 https://cld.pt/dl/download/952b6180-2a43-463f-88cd-b8fa1001ee75/Die%20Hard%201988.mp4
-#EXTINF:-1 tvg-logo="https://bit.ly/3HqNEfv" description="1990", Assalto ao Aeroporto
+#EXTINF:-1 tvg-logo="https://bit.ly/3HqNEfv" type="VIDEO" description="1990", Assalto ao Aeroporto
 https://cld.pt/dl/download/733edbad-df9e-429e-8f4e-1234bc6ba58c/Die%20Hard%202%201990.mp4
-#EXTINF:-1 tvg-logo="https://bit.ly/3O6YsTK" description="2008", Die Hard 3 - A Vingança
+#EXTINF:-1 tvg-logo="https://bit.ly/3O6YsTK" type="VIDEO" description="2008", Die Hard 3 - A Vingança
 https://cld.pt/dl/download/ea12211c-4437-48f7-b056-feddcba0588d/Die%20Hard%20with%20a%20Vengeance%201995.mp4
-#EXTINF:-1 tvg-logo="https://bit.ly/3SnfrUq" description="2007", Die Hard 4.0 - Viver ou Morrer
+#EXTINF:-1 tvg-logo="https://bit.ly/3SnfrUq" type="VIDEO" description="2007", Die Hard 4.0 - Viver ou Morrer
 https://cld.pt/dl/download/99ec428d-bb1d-45a9-923b-749e1cf2df22/Live%20Free%20or%20Die%20Hard%202007.mp4
-#EXTINF:-1 tvg-logo="https://bit.ly/3SreOZO" description="2013",Die Hard: Nunca é Bom Dia para Morrer
+#EXTINF:-1 tvg-logo="https://bit.ly/3SreOZO" type="VIDEO" description="2013",Die Hard: Nunca é Bom Dia para Morrer
 https://cld.pt/dl/download/b74596ab-4d9c-48e2-9b60-07b70540ef3c/A%20Good%20Day%20to%20Die%20Hard%202013.mp4
