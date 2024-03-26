@@ -1,12 +1,12 @@
 #EXTM3U size="medium"
 
-#EXTINF:-1 tvg-logo="https://bit.ly/3IFg8R9" description="2008", Crepúsculo
+#EXTINF:-1 tvg-logo="https://bit.ly/3IFg8R9" type="VIDEO" description="2008", Crepúsculo
 https://fv9-4.failiem.lv/Files.fm_2022-01-26_file_gdq2zw5jg/Twilight%20Saga%202008.mp4?PHPSESSID=b55dc3aa53e863de8766bdbfdf7e6046203e1656
-#EXTINF:-1 tvg-logo="https://bit.ly/32EU2z6" description="2009", A Saga Twilight: Lua Nova
+#EXTINF:-1 tvg-logo="https://bit.ly/32EU2z6" type="VIDEO" description="2009", A Saga Twilight: Lua Nova
 https://fv9-3.failiem.lv/Files.fm_2022-01-26_file_5rs8usy95/Twilight%20Saga%20New%20Moon%202009.mp4?PHPSESSID=b55dc3aa53e863de8766bdbfdf7e6046203e1656
-#EXTINF:-1 tvg-logo="https://bit.ly/3G29tPd" description="2010", A Saga Twilight: Eclipse 
+#EXTINF:-1 tvg-logo="https://bit.ly/3G29tPd" type="VIDEO" description="2010", A Saga Twilight: Eclipse 
 https://fv9-4.failiem.lv/Files.fm_2022-01-26_file_68fqs5qmh/Twilight%20Saga%20Eclipse%202010.mp4?PHPSESSID=b55dc3aa53e863de8766bdbfdf7e6046203e1656
-#EXTINF:-1 tvg-logo="https://bit.ly/3uaHRVM" description="2011", A Saga Twilight: Amanhecer Parte 1
+#EXTINF:-1 tvg-logo="https://bit.ly/3uaHRVM" type="VIDEO" description="2011", A Saga Twilight: Amanhecer Parte 1
 https://fv9-2.failiem.lv/Files.fm_2022-01-24_file_sbh669z7k/The%20Twilight%20Saga%20Breaking%20Dawn%20Part%202011.mp4?PHPSESSID=b55dc3aa53e863de8766bdbfdf7e6046203e1656
-#EXTINF:-1 tvg-logo="https://bit.ly/3u3odLI" description="2012", A Saga Twilight: Amanhecer Parte 2
+#EXTINF:-1 tvg-logo="https://bit.ly/3u3odLI" type="VIDEO" description="2012", A Saga Twilight: Amanhecer Parte 2
 https://fv9-2.failiem.lv/Files.fm_2022-01-26_file_8tm3pccpb/The%20Twilight%20Saga%20Breaking%20Dawn%20Part%202012.mp4?PHPSESSID=b55dc3aa53e863de8766bdbfdf7e6046203e1656
