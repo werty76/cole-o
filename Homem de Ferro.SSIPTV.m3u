@@ -1,9 +1,9 @@
 #EXTM3U size="medium"
 
-#EXTINF:-1 tvg-logo="https://bit.ly/424wPR0" description="2008", Homem de Ferro
+#EXTINF:-1 tvg-logo="https://bit.ly/424wPR0" type="VIDEO" description="2008", Homem de Ferro
 https://cld.pt/dl/download/730b5484-1069-4f40-bb04-ea05d16aa64d/Iron%20Man%202008.mp4
-#EXTINF:-1 tvg-logo="https://bit.ly/429KxlQ" description="2010",Homem de Ferro 2
+#EXTINF:-1 tvg-logo="https://bit.ly/429KxlQ" type="VIDEO" description="2010",Homem de Ferro 2
 https://cld.pt/dl/download/7ca8e071-a44f-4831-a7b1-35751e531ca5/Iron%20Man%202010.mp4
-#EXTINF:-1 tvg-logo="https://bit.ly/3ObTnK1" description="2013",Homem de Ferro 3
+#EXTINF:-1 tvg-logo="https://bit.ly/3ObTnK1" type="VIDEO" description="2013",Homem de Ferro 3
 https://cld.pt/dl/download/1cc83b3a-c776-4884-9ee7-502e93400366/Iron%20Man%202013.mp4
 
