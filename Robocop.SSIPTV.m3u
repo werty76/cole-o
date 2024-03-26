@@ -1,10 +1,10 @@
 #EXTM3U size="medium"
 
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/fR0lfsB7YRNy2NQo9Ii7CPnYp31.jpg" description="1987", RoboCop - O Policial do Futuro
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/fR0lfsB7YRNy2NQo9Ii7CPnYp31.jpg" type="VIDEO" description="1987", RoboCop - O Policial do Futuro
 https://cld.pt/dl/download/03dc4ac6-9890-4a00-8acc-9312ec4f0497/RoboCop%20-%20O%20Policial%20do%20Futuro%201987.mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/dOemIQ8VlPfWJthykeBEXx5vMfv.jpg" description="1990" ,RoboCop 2
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/dOemIQ8VlPfWJthykeBEXx5vMfv.jpg" type="VIDEO" description="1990" ,RoboCop 2
 https://cld.pt/dl/download/d44bc725-1bb7-43f6-b38a-4c136a17cf7d/RoboCop%202%201990.mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/btzDBL1kaxk7vI8TVbSPaSrkTTv.jpg" description="1993", RoboCop 3
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/btzDBL1kaxk7vI8TVbSPaSrkTTv.jpg" type="VIDEO" description="1993", RoboCop 3
 https://cld.pt/dl/download/832114b9-4d3a-4d12-b544-6cd1c501790c/RoboCop%203%201993.mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/7vFsWZGc2ciJVt888FbeKBKWv16.jpg" description="2014", Robocop
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/7vFsWZGc2ciJVt888FbeKBKWv16.jpg" type="VIDEO" description="2014", Robocop
 https://fv9-2.failiem.lv/Files.fm_2022-01-16_file_sseyabvxa/RoboCop%202014.mp4?PHPSESSID=b7add0d7f7d432f5fb206056400fc3cf48287a32
