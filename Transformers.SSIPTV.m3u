@@ -1,14 +1,14 @@
 #EXTM3U size="medium"
 
-#EXTINF:-1 tvg-logo="https://bit.ly/3EydAEx" group-title="FILMES", Transformers - O Despertar das Feras (2023)
+#EXTINF:-1 tvg-logo="https://bit.ly/3EydAEx" type="VIDEO" description="2023", Transformers - O Despertar das Feras
 https://fv5-3.failiem.lv/Files.fm_2023-09-10_file_7qa549wgk/Transformers-+O+Despertar+das+Feras+%282023%29.mp4?PHPSESSID=b4c25a42ae2dad08c9b844fa712731907779dddc
-#EXTINF:-1 tvg-logo="https://bit.ly/47Q5IKK" group-title="FILMES", Transformers: O Último Cavaleiro
+#EXTINF:-1 tvg-logo="https://bit.ly/47Q5IKK" type="VIDEO" description="2017", Transformers: O Último Cavaleiro
 https://cld.pt/dl/download/c0b9fcc1-325e-4fb5-88af-432d489676cb/Transformers%20%20The%20Last%20Knight%202017.mp4  
-#EXTINF:-1 tvg-logo="https://bit.ly/3S10tC8" group-title="FILMES", Transformers: Era da Extinção
+#EXTINF:-1 tvg-logo="https://bit.ly/3S10tC8" type="VIDEO" description="2014", Transformers: Era da Extinção
 https://cld.pt/dl/download/6d8ffea0-2018-4cc9-9f2f-04d97813af31/Transformers%20Age%20Of%20Extinction%202014.mp4   
-#EXTINF:-1 tvg-logo="https://bit.ly/3Od5AhE" group-title="FILMES", Transformers 3
+#EXTINF:-1 tvg-logo="https://bit.ly/3Od5AhE" type="VIDEO" description="2011", Transformers 3
 https://cld.pt/dl/download/ffbeb7a0-1c5b-4266-9f8d-7cf5d9ca872b/Transformers%202011.mp4 
-#EXTINF:-1 tvg-logo="https://bit.ly/47Kq2Nt" group-title="FILMES", Transformers: Retaliação
+#EXTINF:-1 tvg-logo="https://bit.ly/47Kq2Nt" type="VIDEO" description="2009", Transformers: Retaliação
 https://cld.pt/dl/download/f104c6d1-5674-4278-86b0-702d595f0b8f/Transformers%202009.mp4   
-#EXTINF:-1 tvg-logo="https://bit.ly/3OfAKEV" group-title="FILMES", Transformers
+#EXTINF:-1 tvg-logo="https://bit.ly/3OfAKEV" type="VIDEO" description="2007", Transformers
 https://cld.pt/dl/download/3a3d61de-1ed9-4771-afa3-c9f75fc29188/Transformers%202007.mp4  
