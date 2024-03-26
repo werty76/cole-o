@@ -1,10 +1,10 @@
 #EXTM3U size="medium"
 
-#EXTINF:-1 tvg-logo="https://bit.ly/3r8XCuN" description="2017", Alien: Covenant
+#EXTINF:-1 tvg-logo="https://bit.ly/3r8XCuN" type="VIDEO" description="2017", Alien: Covenant
 https://fv2-3.failiem.lv/Files.fm_2022-01-27_file_c34sk9cra/Alien%20Covenant%202017.mp4?PHPSESSID=1430f27e61a178b0a3c3eb64d0febe2ce052d5e3
-#EXTINF:-1 tvg-logo="https://bit.ly/3s0Lxah" description="2012", Prometheus
+#EXTINF:-1 tvg-logo="https://bit.ly/3s0Lxah" type="VIDEO" description="2012", Prometheus
 https://fv2-1.failiem.lv/Files.fm_2022-01-27_file_be762n52v/05.%20Prometheus.2012.mp4?PHPSESSID=1430f27e61a178b0a3c3eb64d0febe2ce052d5e3
-#EXTINF:-1 tvg-logo="https://bit.ly/3r8HgSY" description="1997", Alien: O Regresso
+#EXTINF:-1 tvg-logo="https://bit.ly/3r8HgSY" type="VIDEO" description="1997", Alien: O Regresso
 https://fv2-5.failiem.lv/Files.fm_2022-01-27_file_k2mbg6hxv/04.%20Alien.4.1997.mp4?PHPSESSID=1430f27e61a178b0a3c3eb64d0febe2ce052d5e3
 #EXTINF:-1 tvg-logo="https://bit.ly/3AFz8wo"description="1992", Alien 3 - A Desforra
 https://fv2-5.failiem.lv/Files.fm_2022-01-27_file_dze25hn47/03.%20Alien.3.1992.mp4?PHPSESSID=1430f27e61a178b0a3c3eb64d0febe2ce052d5e3
