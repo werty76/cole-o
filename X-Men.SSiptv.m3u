@@ -1,16 +1,16 @@
 #EXTM3U size="medium"
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/8GJ75nX4eat11tnpgAKdFMPgiLH.jpg" description="2000", X-Men
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/8GJ75nX4eat11tnpgAKdFMPgiLH.jpg" type="VIDEO" description="2000", X-Men
 https://cld.pt/dl/download/669d2f30-3ad2-43ff-8a18-cf0427c71577/X-Men%202000.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/bst4alFUXCxISwdRUKSMhhkrX1M.jpg" description="2003", X-Men 2
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/bst4alFUXCxISwdRUKSMhhkrX1M.jpg" type="VIDEO" description="2003", X-Men 2
 https://cld.pt/dl/download/8c9429b1-1359-457e-892e-3df2230314c8/X-Men%202%202003.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/7klqeHzrukZTFVgB4xEOIzqKcZ3.jpg" description="2006", X-Men: O Confronto Final
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/7klqeHzrukZTFVgB4xEOIzqKcZ3.jpg" type="VIDEO" description="2006", X-Men: O Confronto Final
 https://cld.pt/dl/download/291a7b82-f5d3-4e25-895e-ae89344c179b/X-Men%20The%20Last%20Stand%202006.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/nqPXRgbfzMJ4Wh4a1OkeVjOEDmK.jpg" description="2011", X-Men: O Início
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/nqPXRgbfzMJ4Wh4a1OkeVjOEDmK.jpg" type="VIDEO" description="2011", X-Men: O Início
 https://cld.pt/dl/download/49011a96-fbb1-4240-8851-53fc8f37bb94/X-Men%20First%20Class%202011.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/bUm0nSsTA6kfFfZHgNbNFisVe7M.jpg" description="2014", X-Men: Dias de um Futuro Esquecido
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/bUm0nSsTA6kfFfZHgNbNFisVe7M.jpg" type="VIDEO" description="2014", X-Men: Dias de um Futuro Esquecido
 https://cld.pt/dl/download/8a08fe4c-7d54-44d9-8f38-5b8f212d2fe2/X-Men%20Days%20of%20Future%20%20Past%202014.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/a6OjCxF8DW9huIdAPshWJpO0ldx.jpg" description="2016", X-Men: Apocalipse
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/a6OjCxF8DW9huIdAPshWJpO0ldx.jpg" type="VIDEO" description="2016", X-Men: Apocalipse
 https://cld.pt/dl/download/34f3437b-b26b-49e9-bf60-a9965372a2b7/X-Men%20%20Apocalypse%202016.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/w4mvEKtjawXdYaq1bORuodLX6ti.jpg" description="2019", X-Men: Fénix Negra
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/w4mvEKtjawXdYaq1bORuodLX6ti.jpg" type="VIDEO" description="2019", X-Men: Fénix Negra
 https://cld.pt/dl/download/d085a8a5-6c21-430e-a471-145cd7bff06e/Dark%20Phoenix%202019.mp4
