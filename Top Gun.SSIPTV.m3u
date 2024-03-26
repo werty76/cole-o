@@ -1,6 +1,6 @@
 #EXTM3U size="medium"
 
-#EXTINF:-1 tvg-logo="https://bit.ly/45Evfq4" description="1986",Top Gun: Ases Indomaveis
+#EXTINF:-1 tvg-logo="https://bit.ly/45Evfq4" type="VIDEO" description="1986",Top Gun: Ases Indomaveis
 https://fv5-3.failiem.lv/Files.fm_2023-09-02_file_y4ktw746p/Assistir+Top+Gun+-+Ases+Indom%C3%A1veis+Online+em+HD+no+NetCine+%281986%29.mp4?PHPSESSID=b95fa858cf3b3e81a0ce2f91df8e733003f8b9ab
-#EXTINF:-1 tvg-logo="https://bit.ly/3sHw4Qm" description="2022",Top Gun: Mavverick
+#EXTINF:-1 tvg-logo="https://bit.ly/3sHw4Qm" type="VIDEO" description="2022",Top Gun: Mavverick
 https://fv9-3.failiem.lv/Files.fm_2023-09-02_file_w5xtvvsjg/Assistir+Top+Gun-+Maverick+Online+em+HD+no+NetCine+%282022%29.mp4?PHPSESSID=b95fa858cf3b3e81a0ce2f91df8e733003f8b9ab
