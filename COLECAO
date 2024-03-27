@@ -10,6 +10,14 @@
 </channel>
 
 <channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]American Ninja[/COLOR][/B]</name>
+<thumbnail>https://bit.ly/3VbmjWA</thumbnail>
+<externallink>https://raw.githubusercontent.com/werty76/cole-o/main/American%20Ninja.SSIPTV.m3u</externallink>
+<fanart>https://image.tmdb.org/t/p/original/djTHUyeoFXKDVuHAjJj4LJjQDJD.jpg</fanart>
+<info></info>
+</channel>
+
+<channel>
 <name>[B][COLOR lime]●[/COLOR] [COLOR white]Avatar[/COLOR][/B]</name>
 <thumbnail>https://www.themoviedb.org/t/p/original/oBHqxI9NFi2m9vkQ2PNCGaZJpxL.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/werty76/cole-o/main/Avatar</externallink>
@@ -94,6 +102,14 @@
 <thumbnail>https://www.themoviedb.org/t/p/original/eNg6h0DbuuDMqX6PlNkGjkIDHoJ.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/werty76/cole-o/main/Matrix</externallink>
 <fanart>https://www.themoviedb.org/t/p/original/y0jFVsgbvPE3AJqNxIPRhM7pWrO.jpg</fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]Meg[/COLOR][/B]</name>
+<thumbnail>https://bit.ly/3SW0Yin</thumbnail>
+<externallink>https://raw.githubusercontent.com/werty76/cole-o/main/Meg.SSIPTV.m3u</externallink>
+<fanart>https://image.tmdb.org/t/p/original/iu9bKeJeARqBy0fxXHq7U3kGDqw.jpg</fanart>
 <info></info>
 </channel>
 
