@@ -26,7 +26,7 @@
 </channel>
 
 <channel>
-<name>[B][COLOR lime]●[/COLOR]Bad Boys[COLOR white] [/COLOR][/B]</name>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]Bad Boys[/COLOR][/B]</name>
 <thumbnail>https://image.tmdb.org/t/p/original/7lkblLGyyzL2CTqExolnKAaHtR6.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/werty76/cole-o/main/Bad.Boys</externallink>
 <fanart>https://image.tmdb.org/t/p/original/k9hhSHg5GS4UgWQC6MHBOZrarji.jpg</fanart>
@@ -54,6 +54,14 @@
 <thumbnail>https://bit.ly/3N4Ci43</thumbnail>
 <externallink>https://raw.githubusercontent.com/werty76/cole-o/main/Deadpool</externallink>
 <fanart>https://www.themoviedb.org/t/p/original/en971MEXui9diirXlogOrPKmsEn.jpg</fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]Descendentes[/COLOR][/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/dw02BxDYnmqW4h0t0qA0T3hd5MZ.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/werty76/cole-o/main/Descendentes</externallink>
+<fanart>https://image.tmdb.org/t/p/original/bPLL28xj5MqCBYiaixG4yMYKkpe.jpg</fanart>
 <info></info>
 </channel>
 
