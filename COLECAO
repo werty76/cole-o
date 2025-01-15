@@ -114,6 +114,15 @@
 </channel>
 
 <channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]Jump Street[/COLOR][/B]</name>
+<thumbnail></thumbnail>
+<externallink></externallink>
+<fanart></fanart>
+<info></info>
+</channel>
+
+
+<channel>
 <name>[B][COLOR lime]●[/COLOR] [COLOR white]Karate Kid[/COLOR][/B]</name>
 <thumbnail>https://www.themoviedb.org/t/p/original/bl4bbWoK43O6maLoQmMVVSL8ccp.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/werty76/cole-o/main/Karate%20Kid</externallink>
