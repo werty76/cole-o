@@ -170,12 +170,22 @@
 <info></info>
 </channel>
 
+<channel>
 <name>[B][COLOR lime]●[/COLOR] [COLOR white]Missão: Impossivel[/COLOR][/B]</name>
 <thumbnail>https://www.themoviedb.org/t/p/original/v7m8eck9ATOS8MkEbqIiYPkiBRw.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/werty76/cole-o/main/Miss%C3%A3o%3A%20Imposs%C3%ADvel</externallink>
 <fanart>https://www.themoviedb.org/t/p/original/jnR697dbIYn0erHOQdSFNhHhb1i.jpg</fanart>
 <info></info>
 </channel>
+
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white] O Cavaleiro das Trevas[/COLOR][/B]</name>
+<thumbnail>https://tinyurl.com/ykaryds3</thumbnail>
+<externallink>https://raw.githubusercontent.com/werty76/cole-o/main/O%20Cavaleiro%20das%20Trevas</externallink>
+<fanart>https://image.tmdb.org/t/p/original/xyhrCEdB4XRkelfVsqXeUZ6rLHi.jpg</fanart>
+<info></info>
+</channel>
+
 
 <channel>
 <name>[B][COLOR lime]●[/COLOR] [COLOR white]O Hobbit[/COLOR][/B]</name>
